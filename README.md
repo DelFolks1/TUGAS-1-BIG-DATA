@@ -22,7 +22,7 @@
   Setelah itu tabel pertama saya masukkan ke database menggunakan database writer, sedangkan data kedua saya tulis dalam bentuk .csv       menggunakan csv reader<br>
   <img src="/image/splitterresult.jpg"><br>
   Untuk melakukan write ke database, kita terlebih dahulu harus tabel di database dan melakukan koneksi dengan database.
-  <img src="/databaseconf.jpg"><br>
+  <img src="/image/databaseconf.jpg"><br>
   
   4.<b>Modeling</b><br>
   Karena menggunakan 2 format yang berbeda yaitu .csv dan juga data dari database, maka saya menggunakan CSV reader dan juga Database     Reader<br>
